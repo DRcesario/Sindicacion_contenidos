@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Lenguajes de Marcas</title>
+    <id>https://lenguajesdemarcas.example.com</id>
+    <updated>2026-11-09T00:00:00+01:00</updated>
+    <entry>
+        <title>Los inicios de los lenguajes de marcas</title>
+        <id>https://lenguajesdemarcas.example.com/noticias1</id>
+        <updated>2025-01-18T12:00:00Z</updated>
+        <published>2025-01-18T12:00:00Z</published>
+        <link href="https://lenguajesdemarcas.example.com/noticias1" />
+        <summary>Origen y evolucion de los primeros lenguajes de marcas.</summary>
+        <author>
+            <name>Ana Lopez</name>
+        </author>
+    </entry>
+    <entry>
+        <title>HTML y la evolucion de la Web.</title>
+        <id>https://lenguajesdemarcas.example.com/noticias2</id>
+        <updated>2025-01-23T12:00:00Z</updated>
+        <published>2025-01-23T12:00:00Z</published>
+        <link href="https://lenguajesdemarcas.example.com/noticias2" />
+        <summary>Evolución de HTML y su importancia en el desarrollo de la Web.</summary>
+        <author>
+            <name>Carlos Garcia</name>
+        </author>
+    </entry>
+</feed>
