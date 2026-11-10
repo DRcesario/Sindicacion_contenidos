@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Lenguajes de Marcas</title>
+        <link>https://lenguajesdemarcas.example.com</link>
+        <description>Noticias sobre la evolucion de los lenguajes de marcas.</description>
+        <pubDate>Mon, 09 Nov 2026 00:00:00 +0100</pubDate>
+        <copyright>Copyright@2026</copyright>
+        <item>
+            <title>Los inicios de los lenguajes de marcas</title>
+            <link> https://lenguajesdemarcas.example.com/noticias1</link>
+            <description>Origen y evolucion de los primeros lenguajes de marcas.</description>
+            <pubDate>Sat, 18 Jan 2025 12:00:00 GMT</pubDate>
+            <author>analopez@example.com</author>
+        </item>
+        <item>
+            <title>HTML y la evolucion de la Web.</title>
+            <link>https://lenguajesdemarcas.example.com/noticias2</link>
+            <description>Evolucion de HTML y su importancia en el desarrollo de la Web.</description>
+            <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
+            <author>carlosgarcia@example.com</author>
+        </item>
+    </channel>
+</rss>
